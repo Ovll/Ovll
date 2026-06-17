@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Simcha Bryzgalov
 
-- 🌱 I’m currently learning ASP.NET, React, Node.js
+- 🌱 I’m currently learning ASP.NET, React, Node.js and MAF
 <!--
 **Ovll/Ovll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
